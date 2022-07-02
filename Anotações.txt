@@ -1,0 +1,24 @@
+
+Ter Foco / Resilência / Persistência
+
+Link para dowload de Git: https://git-scm.com/dowloads
+
+O Git bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos no Git Bash
+
+cd - vai para a raiz
+cls - limpa o tela do terminal
+dir - lista diretorios
+mkdir - criar pasta
+del - deletar arquivo
+
+Alguns comandos no Git
+git init - inicia-se o repositorio dentro da pasta
+git add - adiciona 
+git commit - envia para o repositorio
+
+
+Git Hub - compartilhar seu projeto e progresso.
+ 
+
